@@ -1,0 +1,5 @@
+src/
+  app/
+    page.jsx
+  styles/
+    globals.css
